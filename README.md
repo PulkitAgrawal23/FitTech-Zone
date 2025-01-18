@@ -38,7 +38,7 @@ For a personalized experience, the app uses Firebase for email verification of u
 ## **🛠️ How to Run the App**  
 1. Clone the repository to your local machine:  
    ```bash
-   git clone https://github.com/your-username/Fitness-Android-APP.git
+   git clone https://github.com/your-username/FitTech-Zone.git
    ```
 2. Open the project in Android Studio.  
 3. Sync Gradle files and install necessary dependencies.  
