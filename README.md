@@ -7,3 +7,7 @@ Mainly has 5 features:
 3. BMI CALCULATOR
 4. PORTION CONTROL
 5. EXCERCISE VIDEOS
+
+## Demo Video
+
+[Demo Video] (https://drive.google.com/file/d/1XOgQlGFx143nIUl5dZ0tyKpZ4Bn8tHNk/view?usp=drive_link)
